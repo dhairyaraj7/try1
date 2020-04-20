@@ -9,7 +9,7 @@
                 border: 2px red;
             }
             th{
-                border: 2 light green;
+                border: 2 solid green;
              
             }
             
