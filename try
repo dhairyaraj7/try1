@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Page Try1
+        </title>
+        <style>
+            table{
+                border: 2px red;
+            }
+            th{
+                border: 2 light green;
+             
+            }
+            
+            </style>
+    </head>
+
+    <body>
+        <h1>Names</h1>
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Surname</th>
+                <th>Roll</th>
+            </tr>
+            <tr>
+                <td>Dhairya</td>
+                <td>Umrania</td>
+                <td>58</td>
+            </tr>
+            <tr>
+                <td>Mitali</td>
+                <td>Zaveri</td>
+                <td>59</td>
+            </tr>
+        </table>
+    </body>
+</html>
